@@ -1,5 +1,4 @@
 # K-Core Decomposition in C++
-
 After reading Dr. Bin Guo's papers on k-core decomposition and parallel core maintenance, I wanted to go beyond just understanding the theory, so I built this.
 
 This is a from-scratch C++ implementation of k-core decomposition on undirected graphs, written without any external libraries. Given a graph as an edge list, it computes the core number of every node and reports the degeneracy of the graph.
