@@ -41,7 +41,7 @@ Output:
 ```
 Loaded 7 nodes from graph.txt
 Node -> Core Number
--------------------
+
 Node 1 -> 3
 Node 2 -> 3
 Node 3 -> 3
